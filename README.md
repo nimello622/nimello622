@@ -5,10 +5,10 @@ Welcome to my GitHub!
 I'm a 17-year-old student currently finishing my course in Systems Analysis and Development at SENAI, studying full-time. I'm just starting out in the world of programming and am excited to explore new opportunities and continuously learn.
 
 ## Education ⚡
-Course: Systems Analysis and Development
-Institution: SENAI
-Study Mode: Full-time
-Status: Finishing
+- Course: Systems Analysis and Development
+- Institution: SENAI
+- Study Mode: Full-time
+- Status: Finishing
 
 ## Skills ⚡
 Teamwork: I have experience collaborating on team projects, where I developed communication and cooperation skills.
