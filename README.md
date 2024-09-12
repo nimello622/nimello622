@@ -16,6 +16,23 @@ Front-end Web Development: I am focused on front-end development and am always l
 
 ## Projects
 I am working on several web development projects and would love to share my progress with you. Feel free to explore my repository and see what I'm creating.
+
+## 🛠️ Technologies and Tools
+
+### Languages:
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frameworks:
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Tools:
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
 <!--
 **nimello622/nimello622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
